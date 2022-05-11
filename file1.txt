@@ -4,4 +4,3 @@ python
 c#
 data structures
 OS
-interview qns
